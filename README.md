@@ -1,0 +1,5 @@
+ **Chocolate Chip Cookies**
+
+ This is an example of a simple chocolate chip cookie recipe. A chocolate chip cookie is a drop cookie that features chocolate chips or chocolate morsels as its distinguishing ingredient. Chocolate chip cookies originated in the United States around 1938, when Ruth Graves Wakefield chopped up a Nestlé semi-sweet chocolate bar and added the chopped chocolate to a cookie recipe.
+ Chocolate chips or chocolate morsels are small chunks of sweetened chocolate, used as an ingredient in a number of desserts (notably chocolate chip cookies and muffins), in trail mix and less commonly in some breakfast foods such as pancakes.
+ ![Image of CHOCO-CHIPS](https://www.bing.com/images/search?view=detailV2&ccid=5o2yM68G&id=684D42466E43C23BCDC8DEC135C0B6B62745536C&thid=OIP.5o2yM68G9USOGCfyNz6yFgHaLH&mediaurl=https%3A%2F%2Fsallysbakingaddiction.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fchewy-pumpkin-chocolate-chip-cookies-3.jpg&exph=1800&expw=1200&q=Baking+Chocolate+Chips&simid=608044237141377574&ck=3B507F2149FD46DD32284BE3F2BA53B5&selectedindex=40&form=IRPRST&ajaxhist=0&vt=0&sim=11)
